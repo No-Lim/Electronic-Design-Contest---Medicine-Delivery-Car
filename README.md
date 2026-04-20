@@ -12,3 +12,4 @@ Dual STM32 vehicles use K230 AI vision for ward detection. Bluetooth syncs dual-
 | **串口屏交互** | 4.3寸 IPS 触摸串口屏 |
 <img width="398" height="775" alt="image" src="https://github.com/user-attachments/assets/9454f47b-33b7-4e81-9a20-5ce640f5d036" />
 <img width="313" height="352" alt="image" src="https://github.com/user-attachments/assets/2e5995a5-aa56-4235-8386-a4a12d7af11c" />
+<img width="381" height="304" alt="image" src="https://github.com/user-attachments/assets/b2bd7913-8cd6-46cb-9c34-311eeeabbb10" />
